@@ -1,4 +1,4 @@
-﻿# STRIDES — Biomechanical Intelligence Platform
+# STRIDES — Biomechanical Intelligence Platform
 ## Complete System Architecture v1.0
 ### Target: Google AI Studio (Gemini API) · Firebase · GCP
 
